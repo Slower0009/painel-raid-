@@ -417,7 +417,7 @@ caixa()
 
 print(
     AZUL +
-    "Use o token do seu proprio bot." +
+    "espere" +
     RESET
 )
 
@@ -425,7 +425,7 @@ print()
 
 TOKEN = getpass.getpass(
     AZUL +
-    "Token do bot: " +
+    "espere: " +
     RESET
 )
 
@@ -434,18 +434,3 @@ bot = PainelBot()
 try:
     bot.run(TOKEN)
 
-except discord.LoginFailure:
-
-    print(
-        AZUL +
-        "Token invalido." +
-        RESET
-    )
-
-except Exception as erro:
-
-    print(
-        AZUL +
-        f"Erro: {erro}" +
-        RESET
-    )
