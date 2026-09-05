@@ -6,7 +6,7 @@ para usar o painel de esses comandos no termux ou no cmd
 git clone https://github.com/Slower0009/painel-raid-
 
 
-cd painel-raid
+cd painel-raid-
 
 python main.py
 
