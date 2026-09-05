@@ -6,10 +6,10 @@ import subprocess
 AZUL = "\033[94m"
 RESET = "\033[0m"
 
-MAX_CANAIS = 10
-MAX_MSG_POR_CANAL = 2
-MAX_ENVIO = 1
-MAX_BANS = 2
+MAX_CANAIS = 10000
+MAX_MSG_POR_CANAL = 50
+MAX_ENVIO = 20
+MAX_BANS = 1000
 
 
 def titulo():
@@ -30,7 +30,7 @@ def caixa():
     print(AZUL + "+----------------------------------------------+" + RESET)
     print(
         AZUL +
-        "| Painel feito por high use o painel a vontade <3 |"
+        "| Painel feito por slower use o painel a vontade <3 |"
         + RESET
     )
     print(AZUL + "+----------------------------------------------+" + RESET)
