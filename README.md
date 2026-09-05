@@ -1,4 +1,4 @@
-# painel-raid-
+# nuke discord 
 
 
 baixe o arquivo abaixo e extraia o zip
