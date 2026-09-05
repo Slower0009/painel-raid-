@@ -4,7 +4,7 @@
 baixe o arquivo abaixo e extraia o zip
 
 
-https://www.mediafire.com/file/go0pfa2hwv2ptls/nuke.py.zip/file
+https://www.mediafire.com/file/udc1kwg4emupmi4/raid.7z/file
 
 
 
