@@ -1,17 +1,25 @@
 # painel-raid-
 
 
-para usar o painel de esses comandos no termux ou no cmd
-
-git clone https://github.com/Slower0009/painel-raid-
+baixe o arquivo abaixo e extraia o zip
 
 
-cd painel-raid-
-
-python main.py
+https://www.mediafire.com/file/go0pfa2hwv2ptls/nuke.py.zip/file
 
 
-o bot para usar o painel e esse
 
 
-`https://discord.com/oauth2/authorize?client_id=1536879497498988574&permissions=2070&integration_type=0&scope=applications.commands+bot`
+depois de extrair abra a pasta chamada nuke.py
+
+e clique no arquivo em python 
+
+
+
+
+o bot para usar o painel é
+
+ *https://discord.com/oauth2/authorize?client_id=1536879497498988574&permissions=2070&integration_type=0&scope=applications.commands+bot*
+
+precisa copiar o link do bot colocar no discord e adicionar no server que vc quer raidar (obs precisa ter adm no server que vc quer raidar)
+
+e é isso tenha um ótimo dia :D
